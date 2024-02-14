@@ -1,15 +1,15 @@
 <h1 align="center">Hi 👋, I'm Kishore</h1>
 <h3 align="center">A passionate junior Full-stack developer</h3>
 
-- 🌱 I’m currently learning **Authentication with passport.js and react js**
+- 🌱 I’m currently learning **Docker**
 
 - 👨‍💻 All of my projects are available at [https://kishorekevin.github.io/my-portfolio/](https://kishorekevin.github.io/my-portfolio/)
 
-- 💬 Ask me about **Html,CSS,Bootstrap,Bulma,Materialize Css,Javascript,JQuery,Nodejs,Expressjs,mongodb,git,C,C++,Python,Java,Linux Operating System.REST API,Ejs engine**
+- 💬 Ask me about **Html,CSS,Bootstrap,Bulma,Materialize Css,Javascript,JQuery,Nodejs,Expressjs,mongodb,git,C,C++,Python,Java,Linux Operating System.REST API,Ejs engine,Reactjs**
 
 - 📫 How to reach me **kishorekevin3289@gmail.com**
 
-- ⚡ Fun fact **an genuine introvert**
+- ⚡ Fun fact **I use Arch , btw 🐧**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
