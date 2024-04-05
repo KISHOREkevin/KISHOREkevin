@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Kishore</h1>
 <h3 align="center">Training on Full-stack Development</h3>
 
-- 🌱 I’m currently learning **AWS , BaaS and passportjs in MERN**
+- 🌱 I’m currently learning **AWS and BaaS**
 
 - 👨‍💻 All of my projects are available at [https://kishorekevin.github.io/my-portfolio/](https://kishorekevin.github.io/my-portfolio/)
 
