@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Kishore</h1>
 <h3 align="center">Training on Full-stack Development</h3>
 
-- 🌱 I’m currently learning **AWS and BaaS**
+- 🌱 I’m currently learning **AWS and Baas**
 
-- 👨‍💻 All of my projects are available at [https://kishorekevin.github.io/my-portfolio/](https://kishorekevin.github.io/my-portfolio/)
+- 👨‍💻 All of my projects are at https://funny-gelato-de7e4a.netlify.app/
 
 - 💬 Ask me about **MERN stack (Mongodb,Express,React,Node), Linux Systems and Commands, Docker,Networking,Home-lab,Cloud Computing and deployments**
 
