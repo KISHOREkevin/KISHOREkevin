@@ -5,7 +5,7 @@
 
 - 👨‍💻 All of my projects are at https://funny-gelato-de7e4a.netlify.app/
 
-- 💬 Ask me about **MERN stack (Mongodb,Express,React,Node), Linux Systems and Commands, Docker,Networking,Home-lab,Cloud Computing and deployments**
+- 💬 Ask me about **Fullstack development, Linux Systems and Commands, Docker,Networking,Home-lab,Cloud Computing and deployments**
 
 - 📫 How to reach me **kishorekevin3289@gmail.com**
 
