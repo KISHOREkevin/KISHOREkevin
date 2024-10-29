@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Kishore</h1>
 <h3 align="center">Training on Full-stack Development</h3>
 
-- 🌱 I’m currently learning **Deployment and Django**
+- 🌱 I’m currently learning **CI/CD and Django**
 
 - 👨‍💻 All of my projects are at https://funny-gelato-de7e4a.netlify.app/
 
